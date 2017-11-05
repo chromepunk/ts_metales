@@ -1,0 +1,31 @@
+-Generalidades
+La presente tesis se ha dirigido hacia la caracterización de materiales, técnicas y tipos de alteración de metales preciosos* en objetos procedentes de distintos ámbitos artísticos, geológicos y arqueológicos. Para dicho fín se ha aplicado una panoplia de técnicas electroquímicas. Estas podrian servir como complemento, o incluso sustitutivo, de las herramientas analíticas utilizadas hasta la fecha. Estas técnicas abren, además, la puerta a otros objetivos analíticos inaccesibles hasta la fecha como la datación de piezas metálicas.
+]
+
+--justificación
+La creciente preocupación en el ámbito de conservación patrimonial motiva la busqueda de técnicas diagnósticas que reflejan el cambio de paradigma de actuación de un enfoque restaurador a uno preventivo[. Por ejemplo la voltamperometría de micropartículas mediante el protocolo de muestreo "one touch" en la que para cada medida solo se obtienen unos pocos nanogramos de la muestra por lo que la alteración de la pieza a estudiar es mínima. 
+
+--Antecedentes
+La aplicación de estas técnicas se engloba en una estructura investigadora mayor que recoge los resultados obtenidos en otros materiales arqueológicos como el bronce, cerámica, etc.. y que ponen de manifiesto la conveniencia de estas herramientas de cara a una caracterización de objetos museísticos. 
+
+-Plata y oro como materiales arqueológicos
+Plata:
+Primero fue utilizada para fabricar joyas, durante la edad del bronce. Su extracción en las minas resultaba muy peligrosa ya que los depósitos de plata suelen contener plomo lo que hizo que solo los esclavos trabajaran en las minas.
+Este elemento tuvo un gran impacto por ejemplo una mina muy famosa, cerca de Atenas, conocida como Laurion contribuyó en gran medida a su transformación en una rica ciudad-estado. Tambien habian aparecieron explotaciones mineras  muy importantes en el sur de España y fueron motivo de enconadas disputas entre Cartagineses y Romanos.
+
+[http://www.naturodoc.com/library/medsmats/silver/silver.htm]
+Además de sus usos en joyeria o para la acuñación de monedas, las propiedades bactericidas fueron conocidas y explotadas desde la antiguedad. Como se recoge en algunos de los textos dejados por Hipócrates, donde describe como la plata podia utilizarse para controlar infecciones.
+
+[visualcapitalist]
+La plata solo se pierde su lustre con sulfuro por lo que, curiosamente, no empezó a perderlo hasta la llegada de la revolución industrial, lo que provocó la emisión a la atmosfera de cantidades apreciables de dicho anión.
+
+
+-Problemas arqueométricas y técnicas analíticas
+plata:
+Aunque en principio la plata es bastante resistente a los procesos corrosivos, es frecuente que objetos de plata tengan en su composición otros elementos en una cantidad apreciable, como pueden ser cobre y/o plomo [polishCoins]. Dichos elementos si que son facilmente oxidables por lo que comprometen la defensa de la pieza ante la corrosión.
+
+
+-Técnicas electroquímicas en arqueométria, conservación y restauración.
+
+
+-Métodos de datación
