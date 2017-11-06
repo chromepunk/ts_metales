@@ -1,20 +1,26 @@
 -Generalidades
-La presente tesis se ha dirigido hacia la caracterización de materiales, técnicas y tipos de alteración de metales preciosos* en objetos procedentes de distintos ámbitos artísticos, geológicos y arqueológicos. Para dicho fín se ha aplicado una panoplia de técnicas electroquímicas. Estas podrian servir como complemento, o incluso sustitutivo, de las herramientas analíticas utilizadas hasta la fecha. Estas técnicas abren, además, la puerta a otros objetivos analíticos inaccesibles hasta la fecha como la datación de piezas metálicas.
+La presente tesis se ha dirigido hacia la caracterización de materiales, técnicas y tipos de alteración de metales preciosos* en objetos procedentes de distintos ámbitos artísticos, geológicos y arqueológicos. 
+Para dicho fín se ha aplicado una panoplia de técnicas electroquímicas. 
+Estas podrian servir como complemento, o incluso sustitutivo, de las herramientas analíticas utilizadas hasta la fecha. Estas técnicas abren, además, la puerta a otros objetivos analíticos inaccesibles hasta la fecha como la datación de piezas metálicas.
 ]
 
 --justificación
-La creciente preocupación en el ámbito de conservación patrimonial motiva la busqueda de técnicas diagnósticas que reflejan el cambio de paradigma de actuación de un enfoque restaurador a uno preventivo[. Por ejemplo la voltamperometría de micropartículas mediante el protocolo de muestreo "one touch" en la que para cada medida solo se obtienen unos pocos nanogramos de la muestra por lo que la alteración de la pieza a estudiar es mínima. 
+La creciente preocupación en el ámbito de conservación patrimonial motiva la busqueda de técnicas diagnósticas que reflejan el cambio de paradigma de actuación de un enfoque restaurador a uno preventivo[. 
+Por ejemplo la voltamperometría de micropartículas mediante el protocolo de muestreo "one touch" en la que para cada medida solo se obtienen unos pocos nanogramos de la muestra por lo que la alteración de la pieza a estudiar es mínima. 
 
 --Antecedentes
 La aplicación de estas técnicas se engloba en una estructura investigadora mayor que recoge los resultados obtenidos en otros materiales arqueológicos como el bronce, cerámica, etc.. y que ponen de manifiesto la conveniencia de estas herramientas de cara a una caracterización de objetos museísticos. 
 
 -Plata y oro como materiales arqueológicos
 Plata:
-Primero fue utilizada para fabricar joyas, durante la edad del bronce. Su extracción en las minas resultaba muy peligrosa ya que los depósitos de plata suelen contener plomo lo que hizo que solo los esclavos trabajaran en las minas.
-Este elemento tuvo un gran impacto por ejemplo una mina muy famosa, cerca de Atenas, conocida como Laurion contribuyó en gran medida a su transformación en una rica ciudad-estado. Tambien habian aparecieron explotaciones mineras  muy importantes en el sur de España y fueron motivo de enconadas disputas entre Cartagineses y Romanos.
+Primero fue utilizada para fabricar joyas, durante la edad del bronce. 
+Su extracción en las minas resultaba muy peligrosa ya que los depósitos de plata suelen contener plomo lo que hizo que solo los esclavos trabajaran en las minas.
+Este elemento tuvo un gran impacto por ejemplo una mina muy famosa, cerca de Atenas, conocida como Laurion contribuyó en gran medida a su transformación en una rica ciudad-estado. 
+Tambien habian aparecieron explotaciones mineras  muy importantes en el sur de España y fueron motivo de enconadas disputas entre Cartagineses y Romanos.
 
 [http://www.naturodoc.com/library/medsmats/silver/silver.htm]
-Además de sus usos en joyeria o para la acuñación de monedas, las propiedades bactericidas fueron conocidas y explotadas desde la antiguedad. Como se recoge en algunos de los textos dejados por Hipócrates, donde describe como la plata podia utilizarse para controlar infecciones.
+Además de sus usos en joyeria o para la acuñación de monedas, las propiedades bactericidas fueron conocidas y explotadas desde la antiguedad. 
+Como se recoge en algunos de los textos dejados por Hipócrates, donde describe como la plata podia utilizarse para controlar infecciones.
 
 [visualcapitalist]
 La plata solo pierde su lustre con sulfuro por lo que, curiosamente, no empezó a perderlo hasta la llegada de la revolución industrial, lo que provocó la emisión a la atmosfera de cantidades apreciables de dicho anión.
@@ -22,13 +28,29 @@ La plata solo pierde su lustre con sulfuro por lo que, curiosamente, no empezó 
 
 -Problemas arqueométricas y técnicas analíticas
 plata:
-Aunque en principio la plata es bastante resistente a los procesos corrosivos, es frecuente que objetos de plata tengan en su composición otros elementos en una cantidad apreciable, como pueden ser cobre y/o plomo [polishCoins]. Dichos elementos si que son facilmente oxidables por lo que comprometen la defensa de la pieza ante la corrosión. Como consecuencia de lo expuesto, es posible la aparición de pátinas de materiales resultantes de procesos de oxidación de naturaleza muy variada. Estos serian función de diversos parámetros, entre otros, el tiempo, la composición elemental de la pieza, las técnicas de fabricación empleadas, entre otros. Es uno de los objetivos de este trabajo estimar el efecto de estas variables sobre las señales obtenidas experimentalmente, de cara a dar respuesta a problemas arqueométricos: procedencia de fabricación, estado de conservación, datación etc..
-
+Aunque en principio la plata es bastante resistente a los procesos corrosivos, es frecuente que objetos de plata tengan en su composición otros elementos en una cantidad apreciable, como pueden ser cobre y/o plomo [polishCoins]. 
+Dichos elementos si que son facilmente oxidables por lo que comprometen la defensa de la pieza ante la corrosión. 
+Como consecuencia de lo expuesto, es posible la aparición de pátinas de materiales resultantes de procesos de oxidación de naturaleza muy variada. 
+Estos serian función de diversos parámetros, entre otros, el tiempo, la composición elemental de la pieza, las técnicas de fabricación empleadas, entre otros. 
+Es uno de los objetivos de este trabajo estimar el efecto de estas variables sobre las señales obtenidas experimentalmente, de cara a dar respuesta a problemas arqueométricos: procedencia de fabricación, estado de conservación, datación etc..
 
 -Técnicas electroquímicas en arqueométria, conservación y restauración.
 [[polishCoins
-La voltamperometria ( o voltametria)  de micropartículas inmovilizadas o VIMP, se trata de una metodología electroquímica de estado sólido. Esta fue desarrollada por Scholtz et al [[ , esta metodología se ha aplicado con éxito a un gran número de materiales [[ y en concreto tanto a metales de origen arqueológico como a sus productos de corrosión. Combinandose junto al protocolo de muestreo "one-touch" que consiste en utilizar una mina de grafito que al presionarse sobre la muestra permite la transferencia de unos pocos nanogramos de muestra. Las experiencias previas llevadas a cabo con éxito sobre piezas de cobre/bronce y plomo permitieron han alentado el papel central de este cuerpo de metodologias de cara al estudio de artefactos de plato u oro.
+La voltamperometria ( o voltametria)  de micropartículas inmovilizadas o VIMP, se trata de una metodología electroquímica de estado sólido. 
+Esta fue desarrollada por Scholtz et al [[ , esta metodología se ha aplicado con éxito a un gran número de materiales [[ y en concreto tanto a metales de origen arqueológico como a sus productos de corrosión. 
+Combinandose junto al protocolo de muestreo "one-touch" que consiste en utilizar una mina de grafito que al presionarse sobre la muestra permite la transferencia de unos pocos nanogramos de muestra. 
+Las experiencias previas llevadas a cabo con éxito sobre piezas de cobre/bronce y plomo permitieron han alentado el papel central de este cuerpo de metodologias de cara al estudio de artefactos de plato u oro.
 
+Microscopía electrónica de barrido:
 
+Microscopía de fuerza atómica:
 
 -Métodos de datación
+Sean objetos recuperados de yacimientos arqueológicos u obras de arte museísticas el conocimiento de la fecha de fabricación es una de los principales objetivos arqueométricos. 
+En el caso particular de la datación absoluta en metales solo puede llevarse a cabo mediante un estudio isotópico, por ejemplo el conocido método del Carbono 14 y siempre que el metal se encuentre asociado a restos de materia orgánica. 
+Mención aparte es el estudio del envejecimiento del plomo haciendo uso del efecto Meissner. 
+Scholtz et al abrieron la puerta al uso de métodos de la electroquímica para la datación de materiales, este trabajo se inició con la datación de cerámicas mediante voltametria de micropartículas.
+Dicha metodología se puso a prueba en una nueva bateria de dataciones esta vez sobre artefactos de Cobre y bronce de origen arqueológico. 
+También se han reportado el uso de espectroscopia de electroquímica de impedancias, una técnica de estado sólido que evalua la respuesta en frecuencia de la muestra sometida a una corriente alterna en la que se va variando la frecuencia de oscilación del potencial de la corriente aplicada.
+
+
